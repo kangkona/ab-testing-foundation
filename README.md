@@ -1,1 +1,1 @@
-# ab-testing-foundation
+# awesome-abtest
